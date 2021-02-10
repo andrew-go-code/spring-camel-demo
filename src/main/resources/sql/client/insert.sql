@@ -1,0 +1,1 @@
+insert into target.clients (id, first_name, last_name) values (:#id, :#first_name, :#last_name);

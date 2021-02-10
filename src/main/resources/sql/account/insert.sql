@@ -1,0 +1,1 @@
+insert into target.accounts (id, client_id, number, balance) values (:#id, :#client_id, :#number, :#balance);

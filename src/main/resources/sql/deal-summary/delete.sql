@@ -1,0 +1,1 @@
+truncate table target.deal_summary;

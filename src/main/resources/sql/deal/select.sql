@@ -1,0 +1,1 @@
+select id, account_id, order_id, sum from source.deals;

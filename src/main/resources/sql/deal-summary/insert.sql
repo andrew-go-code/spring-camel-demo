@@ -1,0 +1,1 @@
+insert into target.deal_summary (sum) values (:#sum)

@@ -1,0 +1,1 @@
+select id, client_id, number from source.orders;

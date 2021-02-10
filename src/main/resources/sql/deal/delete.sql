@@ -1,0 +1,1 @@
+truncate target.deals cascade;

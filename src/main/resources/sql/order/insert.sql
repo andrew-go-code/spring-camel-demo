@@ -1,0 +1,1 @@
+insert into target.orders (id, client_id, number) values (:#id, :#client_id, :#number);

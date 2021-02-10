@@ -1,0 +1,1 @@
+insert into target.deals (id, account_id, order_id, sum) values (:#id, :#account_id, :#order_id, :#sum);

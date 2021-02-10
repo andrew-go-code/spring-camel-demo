@@ -1,0 +1,1 @@
+truncate target.accounts cascade;

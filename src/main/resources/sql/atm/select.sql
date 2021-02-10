@@ -1,0 +1,1 @@
+select id, number, address, cash from source.atms;
